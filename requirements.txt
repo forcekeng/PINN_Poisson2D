@@ -1,0 +1,5 @@
+mindspoer >= 1.5.0
+mindelec
+numpy
+matplotlib
+easydict
